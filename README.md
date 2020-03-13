@@ -3,4 +3,5 @@ RTL8188 FTV
 
 USB Wireless Adapter
 
-Windows,Linux,MAC OS
+For:
+Windows, Linux and MAC OS
